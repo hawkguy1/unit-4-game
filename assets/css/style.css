@@ -1,3 +1,52 @@
 body {
     background-image: url(../images/hypnotize.png)
 }
+#title {
+    background-color: white;
+    color: #777777;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+#instructions {
+    background-color: white;
+    color: #777777;
+    font-size: 20px;
+    padding: 15px;
+    margin: 10px;
+}
+#number {
+    background-color: white;
+    color: #777777;
+    padding: 15px;
+    margin: 10px;
+}
+
+#win {
+    background-color: white;
+    color: #777777;
+    padding: 15px;
+    margin: 10px;
+}
+
+#loss {
+    background-color: white;
+    color: #777777;
+    padding: 15px;
+    margin: 10px;
+}
+
+#score {
+    background-color: white;
+    color: #777777;
+    padding: 15px;
+    margin: 10px;
+}
+
+.col-lg-2 {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
